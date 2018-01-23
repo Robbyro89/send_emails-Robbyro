@@ -1,0 +1,9 @@
+{
+  "client_id": "XXX.apps.googleusercontent.com",
+  "client_secret": "XXX",
+  "scope": [
+    "https://www.googleapis.com/auth/drive",
+    "https://spreadsheets.google.com/feeds/"
+  ],
+  "refresh_token": "XXX"
+}
